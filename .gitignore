@@ -1,2 +1,5 @@
 .idea/
 data/
+build/
+__pycache__/
+main.spec
